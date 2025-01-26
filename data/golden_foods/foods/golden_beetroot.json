@@ -1,0 +1,7 @@
+{
+  "name": "golden_beetroot",
+  "food": {
+    "hunger": 6,
+    "saturation": 14.4
+  }
+}

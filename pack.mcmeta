@@ -1,0 +1,6 @@
+{
+    "pack": {
+        "description": "Adds golden beetroot, requires Jsonite",
+        "pack_format": 46
+    }
+}
